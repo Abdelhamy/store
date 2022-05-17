@@ -1,2 +1,2 @@
 # By : Mostafa Abdelhamy
-# store prject first project with typescript
+# store project first project with typescript
